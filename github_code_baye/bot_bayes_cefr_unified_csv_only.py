@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Unified Bot-driven Bayesian CEFR Inference (CSV-only, paper-aligned)
+Unified Bot-driven Bayesian CEFR Inference (CSV-Simulation, paper-aligned)
 ====================================================================
 Supports:
 (A) Synthetic simulation bank (default): 180 items (6 CEFR x 30)
@@ -30,11 +30,16 @@ Outputs (under --out_dir):
 - review_lists/review_Txxx.csv (optional; if --export_review_lists)
 
 Example runs:
-1) Synthetic 180:
-   python bot_bayes_cefr_unified_csv_only.py --out_dir out_sim --export_review_lists
 
-2) CSV-based:
-   python bot_bayes_cefr_unified_csv_only.py --out_dir out_csv --bank_csv question_bank_mo_with_bands_range_utf8sig.csv --export_review_lists
+1) CSV-based:(N=155)
+python .\bot_bayes_cefr_unified_csv_only.py `
+  --out_dir out_csv `
+  --bank_csv .\question_bank_mo_with_bands_range_utf8sig.csv `
+  --export_review_lists
+  
+2) Simulation 180
+python .\bot_bayes_cefr_unified_csv_only.py --out_dir out_sim --export_review_lists
+
 """
 
 import os, math, argparse
@@ -447,3 +452,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
