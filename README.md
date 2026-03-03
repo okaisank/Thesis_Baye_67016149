@@ -4,6 +4,8 @@
 
 ## CSV-based 
 
+1) Run with your uploaded CSV (has band_low/band_high):
+      
 python .\bot_bayes_cefr_unified_csv_only.py 
 `
   --out_dir out_csv `
@@ -14,6 +16,8 @@ python .\bot_bayes_cefr_unified_csv_only.py
 
   
 ## Simulation 
+
+2) Run synthetic 180-item bank (no CSV):
 
 python .\bot_bayes_cefr_unified_csv_only.py --out_dir out_sim --export_review_lists
 
