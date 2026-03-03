@@ -2,7 +2,7 @@
 
 ## Mode 1
 
-## CSV-based (N=155)
+## CSV-based 
 
 python .\bot_bayes_cefr_unified_csv_only.py 
 `
@@ -13,12 +13,14 @@ python .\bot_bayes_cefr_unified_csv_only.py
   --export_review_lists
 
   
-## Simulation 180
+## Simulation 
 
 python .\bot_bayes_cefr_unified_csv_only.py --out_dir out_sim --export_review_lists
 
 
 ## Mode 2
+
+## CSV-based 
 
 1) Run with your uploaded CSV (has band_low/band_high):
 
@@ -32,14 +34,8 @@ python .\bot_bayes_cefr_unified_csv_only.py --out_dir out_sim --export_review_li
    
      --out_dir out_mode2_T200 --T_max 200 --seed 42
 
-3) Run with a CSV that already has true_p_mid:
+## Simulation 
 
-   python bot_bayes_mode2_run_csv_no_bands.py `
-   
-     --bank_csv question_bank_mo_with_bands_range_utf8sig.csv --id_col item_id --p_col true_p_mid `
-   
-     --out_dir out_mode2_T200 --T_max 200
-
-5) Run synthetic 180-item bank (no CSV):
+2) Run synthetic 180-item bank (no CSV):
 
    python bot_bayes_mode2_run_csv_no_bands.py --out_dir out_mode2_T200_sim --T_max 200
