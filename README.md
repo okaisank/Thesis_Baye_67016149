@@ -6,20 +6,20 @@
 
 1) Run with your uploaded CSV (has band_low/band_high):
       
-python .\bot_bayes_cefr_unified_csv_only.py 
-`
-  --out_dir out_csv `
-  
-  --bank_csv .\question_bank_mo_with_bands_range_utf8sig.csv `
-  
-  --export_review_lists
+   python .\bot_bayes_cefr_unified_csv_only.py 
+      `
+      --out_dir out_csv `
+      
+      --bank_csv .\question_bank_mo_with_bands_range_utf8sig.csv `
+      
+      --export_review_lists
 
   
 ## Simulation 
 
 2) Run synthetic 180-item bank (no CSV):
 
-python .\bot_bayes_cefr_unified_csv_only.py --out_dir out_sim --export_review_lists
+   python .\bot_bayes_cefr_unified_csv_only.py --out_dir out_sim --export_review_lists
 
 
 ## Mode 2
