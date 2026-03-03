@@ -1,0 +1,486 @@
+﻿question_id,skill,cefr_level,question_text,audio_url,passage,choice_a,choice_b,choice_c,choice_d,correct_choice,band_low,band_high,band_range
+1,grammar,A1,"What is the plural of ""cat""?",,,cats,cat,cates,catses,A,0.85,0.95,0.85-0.95
+2,grammar,A2,Choose the correct preposition: He is good ___ football.,,,at,in,on,for,A,0.7,0.85,0.70-0.85
+5,reading,C1,"According to the passage, what prompted the policy change?",,The government revised the policy after widespread public protests and expert reports highlighted critical flaws in its implementation.,Economic concerns,Public protests test,Scientific evidence,International pressure,B,0.25,0.4,0.25-0.40
+6,reading,C2,What is the author’s primary criticism of modern art?,,"The author argues that much of modern art has become self-referential and disconnected from broader cultural narratives, losing its capacity to engage a general audience.",Too traditional,Overly commercial,Self-referential focus,Lack of technique,C,0.1,0.25,0.10-0.25
+8,grammar,A1,Choose the correct article: ___ apple is red.,,,An,A,The,No article,A,0.85,0.95,0.85-0.95
+10,grammar,A2,"Which is the past tense of ""go""?",,,goed,went,gone,goes,B,0.7,0.85,0.70-0.85
+11,grammar,B1,"Complete with the correct form: If I _____ more money, I would travel.",,,have,had,will have,haved,B,0.55,0.7,0.55-0.70
+12,grammar,B1,Choose the correct relative pronoun: The book _____ I read was exciting.,,,who,which,that,whom,C,0.55,0.7,0.55-0.70
+13,grammar,B2,Fill in the blank with the correct conditional: She would have come if she _____ earlier.,,,arrived,had arrived,has arrived,would arrive,B,0.4,0.55,0.40-0.55
+14,grammar,B2,Choose the correct passive form: The cake _____ by my mother yesterday.,,,was baked,is baked,baked,had baked,A,0.4,0.55,0.40-0.55
+15,grammar,C1,"Select the correct inversion: Not only _____ she talented, but she also works hard.",,,is,she is,does,she does,A,0.25,0.4,0.25-0.40
+16,grammar,C1,Choose the correct modal perfect: You _____ have told me earlier!,,,should,should have,should had,should have been,B,0.25,0.4,0.25-0.40
+17,grammar,C2,Which sentence uses the subjunctive correctly?,,,I suggest that he studies harder.,I suggest that he study harder.,I suggest that he studied harder.,I suggest that he will study harder.,B,0.1,0.25,0.10-0.25
+18,grammar,C2,Choose the idiomatic expression: She has a good _____ for languages.,,,ear,hearing,mind,taste,A,0.1,0.25,0.10-0.25
+194998,grammar,C2,I can reassure you that everything _______ as quickly as possible.,,,will be dealt,will deal,will deal with,will be dealt with,D,0.1,0.25,0.10-0.25
+194999,grammar,C2,I can reassure you that everything _______ as quickly as possible.,,,will be dealt,will deal,will deal with,will be dealt with,D,0.1,0.25,0.10-0.25
+195000,grammar,B1,You look different ___ your father.,,,as,from,unlike,,B,0.55,0.7,0.55-0.70
+195001,reading,A2,The Weather Office provides a forecast for ___ days.,,"Mountain Area forecast
+Mountains can be dangerous places. The weather can change from one hour to the next, and from one peak to the next. Always check the weather forecast before you go out.  
+
+Brecon Beacons National Park
+Tuesday 4 April
+There will be mist and fog in the valleys early on, but this will lift in the morning. It will be a dry day with some sunny spells, especially in the north, where it will feel warm. It will remain cloudy in the south and west. Cloud will get thicker in the afternoon, and there will be a chance of rain in the west in the late afternoon.
+
+Visibility
+Generally good, but poor in hill fog.  May turn poor in the west in the late afternoon.
+
+Hill fog
+Some hill fog above 300 metres at first. This will lift, but will remain at 600 metres in the morning, and around the peaks in the afternoon and evening.
+
+Wed 5 April
+Weather
+A much windier day, and it will feel cold high up, where temperatures will be low. A bright start, with some sunshine and showers, but showers will increase in the afternoon, and there may be some hail and thunder. Snow showers possible above 800m.
+
+Visibility
+Generally good, but moderate in showers.
+
+Hill fog
+None expected.
+
+Outlook
+Thu 6 April
+Very windy with gales possible in the north and north east. Cloudy with rain or drizzle and hill fog. Some bright spells later, but showers continuing through the afternoon.
+
+Fri 7 April
+Overcast at first with areas of hill fog, and also occasional light rain or drizzle. It will gradually become drier and warmer, but will remain cloudy. Light southeasterly breezes.
+
+Sat 8 April
+A bright day, with the best of the sunshine in the east. It will probably turn cloudier with a gentle southeasterly breeze, but should remain warm and dry.",2,3,4,,C,0.7,0.85,0.70-0.85
+195002,reading,A1,Who can audition for the play Puss in Boots?,,"Lockwood Amateur Dramatic Society
+
+This winter we will be performing ‘Puss in Boots’.
+If you’d like to be on the stage, please come to our auditions on Saturday 8th September. Children: 10-12 am; Adults 2-5pm in the main hall.
+No acting experience necessary!
+Rehearsals will be on Friday nights 7-9pm in the main hall (7-8pm for children) and Wednesdays 7-9pm in the Blue Room.
+Dress rehearsal: 3rd December
+Performances: 5-7th December'",Only adults with experience,"Children and adults, even without acting experience",Only students in drama clubs,,B,0.85,0.95,0.85-0.95
+195003,reading,C1,"In the second paragraph, why does the character mention the ‘romantic novels where the entrapped heroine finds her freedom and salvation through music?",,"Piano Practice
+
+I glare at the piano keys, a lump of fetid anger in my chest, bile in my lungs.   Naturally mother had won. Had it been worth the fight? Now I am incarcerated in this airless room, curtains shutting out the summer sunshine, and I’m supposed to blot out the birdsong with my discordant and clumsy attempts at harmony.
+
+Music is the food of love, they say. Music will set you free, they sang. Remember those romantic novels where the entrapped heroine finds her freedom and salvation through music?How her soaring voice allowed her to escape the claustrophobic confines of her disagreeable existence? Where was that freedom now? All I can see is this grid of horizontal and vertical lines mocking me like the bars on a prison cell. And a prison warden who barks at me from beyond the grave:  Be quiet, now.  You may play loudly now. See the discreet ‘3’ above the semiquaver A flat, demanding that I play the note with the third finger, the third!  How dare that bearded, long-dead German enforce upon me how I play this note?  I will not use my finger, you fusty old man!  I will play it with my thumb!  No, I will bash it with my fist. I can head butt it with impassioned fury if so I choose!
+
+The crow in the kitchen screeches over the sound of the clattering dishes. Why aren’t you playing? And so I clench my muscles, take a deep breath and hammer out that lullaby, as if inviting all the hordes of hell to descend upon the baby’s cradle.",Because she envies the heroinesโ€ musical talent,Because she feels in a similar position to these heroines,Because the heroineโ€s experiences contrast strongly with her own,Because she wishes that music will give her a similar sense of freedom,C,0.25,0.4,0.25-0.40
+195004,reading,A2,choose the correct answer.,,"Diving Lessons for Beginners
+Learners must be able to swim one length of the pool.
+Mondays and Thursdays at 6pm
+Contact Mark at 4856993 for more information.",New members will be taught how to swim.,The diving lessons take place once a week.,You don't need diving experience to join these classes.,,C,0.7,0.85,0.70-0.85
+195005,grammar,A2,Don't look at ____. You will hurt your eyes!,,,the sun,sun,a sun,,A,0.7,0.85,0.70-0.85
+195006,grammar,B2,I expect Anna will be tired when she arrives. She ____ for over 20 hours.,,,will be travelling,will travel,will have been travelling,,C,0.4,0.55,0.40-0.55
+195007,grammar,A1,Where’s my jacket?,,,Here is it.,It’s here.,It’s over there.,,A,0.85,0.95,0.85-0.95
+195008,grammar,C2,It was the collapse of the dotcom boom that finally did _______ him.,,,out,for,off,with,B,0.1,0.25,0.10-0.25
+195009,reading,A1,When does the sewing circle meet?,,"Handicraft Circle
+
+The sewing circle meets in the Blue Room on Mondays and Thursdays from 10am to 12pm.
+Bring along your needlework projects.  Our friendly group can give you tuition and advice on sewing or knitting.",On weekdays from 2pm to 4pm,Every weekend morning,Mondays and Thursdays from 10am to 12pm,,C,0.85,0.95,0.85-0.95
+195010,reading,A2,Why did Mr Bowler write this email to Miss Baxter?,,"Dear Miss Baxter,
+Congratulations! Your drawing of a dog has come second in the village art competition. Please come to the town hall on Saturday 6th October to collect your 10 prize.
+Mr Bowler",To tell her that a drawing is ready to collect.,To invite her to enter an art competition.,To tell her that she has won some money.,,C,0.7,0.85,0.70-0.85
+195011,grammar,B1,I’m not __________ my brother.,,,as hard-working as,more hard-working as,hard-working as,,A,0.55,0.7,0.55-0.70
+195012,reading,A1,Who can join the choir?,,"Calling all Gentlemen!
+The Lockwood Male Voice Choir rehearses in the main hall on Mondays from 7.30-9.30 pm.
+If you love to sing, are over the age of 16 and have an ear for music, please call Ben Freeman for information.",Anyone under 16,Only women,Men over 16 who like music,,C,0.85,0.95,0.85-0.95
+195013,reading,A2,Which day will be coldest?,,"Mountain Area forecast
+Mountains can be dangerous places. The weather can change from one hour to the next, and from one peak to the next. Always check the weather forecast before you go out.  
+
+Brecon Beacons National Park
+Tuesday 4 April
+There will be mist and fog in the valleys early on, but this will lift in the morning. It will be a dry day with some sunny spells, especially in the north, where it will feel warm. It will remain cloudy in the south and west. Cloud will get thicker in the afternoon, and there will be a chance of rain in the west in the late afternoon.
+
+Visibility
+Generally good, but poor in hill fog.  May turn poor in the west in the late afternoon.
+
+Hill fog
+Some hill fog above 300 metres at first. This will lift, but will remain at 600 metres in the morning, and around the peaks in the afternoon and evening.
+
+Wed 5 April
+Weather
+A much windier day, and it will feel cold high up, where temperatures will be low. A bright start, with some sunshine and showers, but showers will increase in the afternoon, and there may be some hail and thunder. Snow showers possible above 800m.
+
+Visibility
+Generally good, but moderate in showers.
+
+Hill fog
+None expected.
+
+Outlook
+Thu 6 April
+Very windy with gales possible in the north and north east. Cloudy with rain or drizzle and hill fog. Some bright spells later, but showers continuing through the afternoon.
+
+Fri 7 April
+Overcast at first with areas of hill fog, and also occasional light rain or drizzle. It will gradually become drier and warmer, but will remain cloudy. Light southeasterly breezes.
+
+Sat 8 April
+A bright day, with the best of the sunshine in the east. It will probably turn cloudier with a gentle southeasterly breeze, but should remain warm and dry.",4th April,5th April,6th April,,B,0.7,0.85,0.70-0.85
+195014,grammar,C1,…and that a Chinese edition ___ be viable.,,,shall,must,will,would,C,0.25,0.4,0.25-0.40
+195015,reading,C2,The writer believes that Watson’s work was ultimately...,,"You are going to read four extracts which are all concerned in some way with the human mind. For each question, choose the answer which you think fits best according to the text.
+Where do emotions come from?
+
+For many centuries, the question of how our minds work was left to theologians and philosophers. But at the beginning of the twentieth century, a new science, experimental psychology emerged, in which the speculative theories of the past were confirmed or disproved by the scientific method. At the forefront of this research was J B Watson. His area of interest was the origin of human emotions. Do we learn them, or do we have them when we are born? In particular, Watson wanted to study fear, and was prepared to go to whatever lengths to study his theory.
+
+Watson’s subject was a 9 month old infant, Albert. During the experiment, Watson presented the child with things which are often considered frightening – a rat, fire, a clown mask. At first, Albert was unafraid of these things. But then Watson tormented the child with loud, unexpected noises as he was playing with them. Sure enough, Albert learnt to associate these things with the unpleasant experience. Even when the noises were stopped, Albert withdrew his body and puckered his face when presented once more with the rat and mask.
+
+Such abusive and disturbing experiments would never be permitted nowadays. The film which Watson made of the experiment makes discomforting viewing, as the child is interminably and cold-heartedly tortured by the items which he has been taught to fear. Nonetheless, this was a landmark work with profound influence. Through it, Watson confirmed that humans learn fear by association, and as a result they can ‘un-learn’ it, a discovery that still impact s the work of behavioural therapists today.",unwarranted,significant,irrational,trivial,B,0.1,0.25,0.10-0.25
+195016,grammar,A2,"There are two new students in my class, ____ boy and ____ girl.",,,You don't need a word in the spaces.,the / the,a / a,,C,0.7,0.85,0.70-0.85
+195017,reading,A1,What should you bring to the club?,,"Photography Club
+Would you like to take great pictures?
+Join our Photography Club every Friday from 6.30 to 8.00 in the Blue Room.
+Bring your own camera. We can lend you photographic equipment such as lenses and tripods.
+Beginners Welcome",A phone,Your own camera,Your homework,,B,0.85,0.95,0.85-0.95
+195018,reading,A1,When will the play Puss in Boots be performed?,,"Lockwood Amateur Dramatic Society
+
+This winter we will be performing ‘Puss in Boots’.
+If you’d like to be on the stage, please come to our auditions on Saturday 8th September. Children: 10-12 am; Adults 2-5pm in the main hall.
+No acting experience necessary!
+Rehearsals will be on Friday nights 7-9pm in the main hall (7-8pm for children) and Wednesdays 7-9pm in the Blue Room.
+Dress rehearsal: 3rd December
+Performances: 5-7th December'",On 8th September,From 5th to 7th December,Every Friday night,,B,0.85,0.95,0.85-0.95
+195019,reading,B1,The article advises readers who want a professional career to...,,"Northacre Council Department of Education
+
+Sixteen - What now?
+You’re 16 and finally you can leave school!  By now, you’re probably sick of teachers, desks, tests and exams.  But don’t just run for the exit. You need to think carefully about what to do next.
+If you want a professional career, you will need to go to university and get a degree. To do that, you need to stay at high school for another two years.  But you needn’t stay at the same place. There are several options in the district of Northacre.
+St. Leopold’s School has the best pass rate of all the high schools in the district. It offers a wide range of subjects in the humanities and sciences.  St Leopold’s is, of course, a private school, so may be too expensive for you. But don’t worry, there are several other options if you want to follow the academic route.  Knowle Grammar School is a state school, so there are no fees, and it has excellent tuition and facilities. It is a boys’ school from the ages of 11-16, but from 16-18 it is co-educational. But it is selective, so you’ll have to pass an exam to get in.  If you’re interested in going into Business, check out Wyle River Academy.  This school specialises in subjects like Business Studies, Management and Economics.  If you prefer the arts, look at the courses on offer at Northacre College.  Here you can study woodwork, art, textiles and much more.
+Northacre College also offers a wide range of vocational qualifications.  You can do a 1-year certificate or a 2-year diploma in subjects like electrics, plumbing, roofing and hairdressing.  If you’d prefer to work outdoors, look at Milldown College, where there are courses in Farm Mechanics, Land Management, Animal Management and much more.
+A final option is to get an apprenticeship with a local or national company.  You will get on-the-job training, gain certificates or diplomas and start earning straight away.  But be warned - places are limited!  Find out more at the Jobs Fair on 26th May at Northacre College.",go to university immediately.,stay at the same school for two more years.,"go to high school for two more years, then get a degree.",,C,0.55,0.7,0.55-0.70
+195020,grammar,B2,By Christmas Dominic will ____ as project manager for five years.,,,be working,have been working,have worked,,A,0.4,0.55,0.40-0.55
+195021,grammar,C2,"By the time you're my age, you _______ your mind.",,,will probably have changed,would probably change,will probably change,are probably changing,A,0.1,0.25,0.10-0.25
+195022,grammar,A2,Which sentence is NOT correct?',,,Climate change is a serious issue.,Pollution is a serious issue.,Environment is a serious issue.,,C,0.7,0.85,0.70-0.85
+195023,grammar,A1,Which question is NOT correct?,,,Where is your house?,You are a manager?,How old are you?,,B,0.85,0.95,0.85-0.95
+195024,grammar,B1,Our house is ____ as big as Robert’s house.,,,slightly,exactly,just,,C,0.55,0.7,0.55-0.70
+195025,grammar,A1,____ is a good book shop near my house.,,,This,There,Here,,B,0.85,0.95,0.85-0.95
+195026,reading,A2,The Weather Office provides a detailed forecast for ___ days.,,"Mountain Area forecast
+Mountains can be dangerous places. The weather can change from one hour to the next, and from one peak to the next. Always check the weather forecast before you go out.  
+
+Brecon Beacons National Park
+Tuesday 4 April
+There will be mist and fog in the valleys early on, but this will lift in the morning. It will be a dry day with some sunny spells, especially in the north, where it will feel warm. It will remain cloudy in the south and west. Cloud will get thicker in the afternoon, and there will be a chance of rain in the west in the late afternoon.
+
+Visibility
+Generally good, but poor in hill fog.  May turn poor in the west in the late afternoon.
+
+Hill fog
+Some hill fog above 300 metres at first. This will lift, but will remain at 600 metres in the morning, and around the peaks in the afternoon and evening.
+
+Wed 5 April
+Weather
+A much windier day, and it will feel cold high up, where temperatures will be low. A bright start, with some sunshine and showers, but showers will increase in the afternoon, and there may be some hail and thunder. Snow showers possible above 800m.
+
+Visibility
+Generally good, but moderate in showers.
+
+Hill fog
+None expected.
+
+Outlook
+Thu 6 April
+Very windy with gales possible in the north and north east. Cloudy with rain or drizzle and hill fog. Some bright spells later, but showers continuing through the afternoon.
+
+Fri 7 April
+Overcast at first with areas of hill fog, and also occasional light rain or drizzle. It will gradually become drier and warmer, but will remain cloudy. Light southeasterly breezes.
+
+Sat 8 April
+A bright day, with the best of the sunshine in the east. It will probably turn cloudier with a gentle southeasterly breeze, but should remain warm and dry.",2,3,5,,A,0.7,0.85,0.70-0.85
+195027,grammar,A2,We saw ___ film yesterday. ___ film was about an explorer.,,,the / A,a / A,a / The,,C,0.7,0.85,0.70-0.85
+195028,reading,C2,This article is clearly written for an audience of...,,"You are going to read four extracts which are all concerned in some way with the human mind. For each question, choose the answer which you think fits best according to the text.
+With Age comes Wisdom
+
+Ah, the wisdom of age! It's comforting to know, as you reach for another cup of tea and a digestive, that even though you are not jogging lithely up and down the streets like those lithe bodies out there, at least your mind has been honed by your life experiences into a pearl of insight and erudition, ready to be tapped for knowledge.
+
+But I would think that, wouldn't I? But thankfully, I'm not alone in my view, and nor is it just my generation that agrees with me. There are in fact a small but growing number of young researchers who are helping us to prove our case. Recently, some American psychologists set about to find out whether there is a relationship between wisdom and age by studying how people of various ages reasoned in questions of social conflict.
+
+Subjects were invited to comment on stories featuring disputes between individuals or social groups, including matters of ethnic tension and immigration. Evaluators listened to their responses and scored them according to a set of wisdom criteria“ such factors included preference for compromise, acknowledgement of other's points of view and ways to manage uncertainty “ (pinpointing exactly what wisdom is is a decidedly tricky business, it would appear).  The findings were clear, (as of course you would know already, wouldn't you, being so wise?). The older participants scored more highly than the younger ones. QED.
+
+Of course there's always someone who wants it to rain on the parade. Another American theorised more recently that older brains are slower, and thus more risk-averse and less impulsive. Clearly this is balderdash, but he'll learn, when he's older.",students,elderly people,psychology researchers,Americans,B,0.1,0.25,0.10-0.25
+195029,reading,B1,St Leopold’s is the best school for…,,"Northacre Council Department of Education
+
+Sixteen - What now?
+You’re 16 and finally you can leave school!  By now, you’re probably sick of teachers, desks, tests and exams.  But don’t just run for the exit. You need to think carefully about what to do next.
+If you want a professional career, you will need to go to university and get a degree. To do that, you need to stay at high school for another two years.  But you needn’t stay at the same place. There are several options in the district of Northacre.
+St. Leopold’s School has the best pass rate of all the high schools in the district. It offers a wide range of subjects in the humanities and sciences.  St Leopold’s is, of course, a private school, so may be too expensive for you. But don’t worry, there are several other options if you want to follow the academic route.  Knowle Grammar School is a state school, so there are no fees, and it has excellent tuition and facilities. It is a boys’ school from the ages of 11-16, but from 16-18 it is co-educational. But it is selective, so you’ll have to pass an exam to get in.  If you’re interested in going into Business, check out Wyle River Academy.  This school specialises in subjects like Business Studies, Management and Economics.  If you prefer the arts, look at the courses on offer at Northacre College.  Here you can study woodwork, art, textiles and much more.
+Northacre College also offers a wide range of vocational qualifications.  You can do a 1-year certificate or a 2-year diploma in subjects like electrics, plumbing, roofing and hairdressing.  If you’d prefer to work outdoors, look at Milldown College, where there are courses in Farm Mechanics, Land Management, Animal Management and much more.
+A final option is to get an apprenticeship with a local or national company.  You will get on-the-job training, gain certificates or diplomas and start earning straight away.  But be warned - places are limited!  Find out more at the Jobs Fair on 26th May at Northacre College.",good exam results.,humanities and sciences.,facilities.,,A,0.55,0.7,0.55-0.70
+195030,reading,A1,What can members of the sewing circle help you with?,,"Handicraft Circle
+
+The sewing circle meets in the Blue Room on Mondays and Thursdays from 10am to 12pm.
+Bring along your needlework projects.  Our friendly group can give you tuition and advice on sewing or knitting.",Painting and drawing techniques,Sewing and knitting advice,Pottery and sculpture projects,,B,0.85,0.95,0.85-0.95
+195031,grammar,B2,What do you think those men were doing in Charles’s garden yesterday?,,,I expect they’ll have been doing some gardening.,I expect they’ll be doing some gardening.,I expect they’ll do some gardening.,,A,0.4,0.55,0.40-0.55
+195032,reading,A1,What can members of the sewing circle help you with?,,"Calling all Gentlemen!
+The Lockwood Male Voice Choir rehearses in the main hall on Mondays from 7.30-9.30 pm.
+If you love to sing, are over the age of 16 and have an ear for music, please call Ben Freeman for information.",Monday mornings,Monday evenings,Saturday afternoons,,B,0.85,0.95,0.85-0.95
+195033,grammar,B1,Do ____ of you have any money I can borrow?,,,both,either,neither,,B,0.55,0.7,0.55-0.70
+195034,grammar,A2,Which sentence is NOT correct?,,,People are increasingly worried about economy.,People are increasingly worried about crime.,People are increasingly worried about health.,,A,0.7,0.85,0.70-0.85
+195035,reading,C1,What aspect of Iford Manor is emphasized in the first paragraph?,,"Extract from a brochure
+
+Iford Manor Festival Season
+
+Iford Manor has been described as one of the most stunning concert venues in the West Country.  Throughout high summer, Iford Arts stages an internationally renowned festival in a breathtakingly beautiful pastoral setting. Operatic performances are staged in-the-round in the intimate surroundings of the Italianate Cloister, which could not be more perfect in terms of scale and style. While the classical backdrop could hardly be more fitting, the real delight for our audiences is that, as the sky turns purple overhead, the first stars appear and the first heady notes resound across the countryside, no-one is seated less than twenty feet from the performers. The opportunity for a relaxing pre-show picnic in our tranquil gardens overlooking the meandering River Frome will complete an already magical experience.
+
+Iford Arts, a registered charity promoting the appreciation of performing arts in the west of England, aims to benefit the local community by engaging young professional artists and stimulating young people's enjoyment of being involved in live performances.  We hope to support young musicians in their career development by encouraging them to develop repertoire and perform to a supportive audience and providing the exquisite environment in which to do so. Iford Arts does not receive any public subsidies, relying on vital private contributions. We offer various levels of private patronage and corporate sponsorship, each providing a range of privileges such as priority booking.",the Italian-style architecture,the countryside location,the seating arrangements,the quality of the music,C,0.25,0.4,0.25-0.40
+195036,grammar,C2,Thank you very much — I haven't been to _______ party for ages.,,,the so enjoyable,such enjoyable,a so enjoyable,such an enjoyable,D,0.1,0.25,0.10-0.25
+195037,reading,A1,How often does the Gardening Club meet?,,"Gardening Club
+The Gardening Club meets on the first Tuesday of each month at 7.00 in the Blue Room.
+Swap seeds and tips and meet green-fingered friends
+October's guest lecturer: Jill Thorn will speak on Creating a Wildlife Garden.",Every Tuesday,Once a month,Every weekend,,B,0.85,0.95,0.85-0.95
+195038,reading,A1,Where are the Wednesday rehearsals?,,"Lockwood Amateur Dramatic Society
+
+This winter we will be performing ‘Puss in Boots’.
+If you’d like to be on the stage, please come to our auditions on Saturday 8th September. Children: 10-12 am; Adults 2-5pm in the main hall.
+No acting experience necessary!
+Rehearsals will be on Friday nights 7-9pm in the main hall (7-8pm for children) and Wednesdays 7-9pm in the Blue Room.
+Dress rehearsal: 3rd December
+Performances: 5-7th December",In the main hall,In the Blue Room,At the school theatre,,B,0.85,0.95,0.85-0.95
+195039,grammar,C1,…will contain a mix of local content ___ primarily by Beijing-based staff.,,,writing,written,wrote,writes,B,0.25,0.4,0.25-0.40
+195040,reading,A2,choose the correct answer.,,"Has anyone seen a silver necklace with a pink butterfly?
+Last seen in this classroom last Friday.
+If you see it, please tell Rebecca Charles in Class 7b.",Rebecca has lost some jewellery.,Rebecca is selling a necklace.,Rebecca found something in a classroom.,,A,0.7,0.85,0.70-0.85
+195041,grammar,A1,Which question is correct?,,,How many rooms are in your house?,How many rooms are there in your house?,How many rooms there are in your house?,,B,0.85,0.95,0.85-0.95
+195042,reading,A1,Who can join the Messy Fingers Club?,,"Messy Fingers Club!
+Mondays, Wednesdays and Fridays from 4.00-5.30pm
+Your kids can get messy with painting, printing and modelling.
+Suitable for children aged 6-11. Meet in the main hall.
+Just bring an old shirt that you don’t mind getting messy!",Children aged 6โ€“11,Teenagers over 12,Adults who like painting,,A,0.85,0.95,0.85-0.95
+195043,reading,C2,One difficulty in measuring the relationship between wisdom and age mentioned in the passage was...,,"You are going to read four extracts which are all concerned in some way with the human mind. For each question, choose the answer which you think fits best according to the text.
+With Age comes Wisdom
+
+Ah, the wisdom of age! It's comforting to know, as you reach for another cup of tea and a digestive, that even though you are not jogging lithely up and down the streets like those lithe bodies out there, at least your mind has been honed by your life experiences into a pearl of insight and erudition, ready to be tapped for knowledge.
+
+But I would think that, wouldn't I? But thankfully, I'm not alone in my view, and nor is it just my generation that agrees with me. There are in fact a small but growing number of young researchers who are helping us to prove our case. Recently, some American psychologists set about to find out whether there is a relationship between wisdom and age by studying how people of various ages reasoned in questions of social conflict.
+
+Subjects were invited to comment on stories featuring disputes between individuals or social groups, including matters of ethnic tension and immigration. Evaluators listened to their responses and scored them according to a set of'wisdom criteria“ such factors included preference for compromise, acknowledgement of other's points of view and ways to manage uncertainty “ (pinpointing exactly what wisdom is is a decidedly tricky business, it would appear).  The findings were clear, (as of course you would know already, wouldn't you, being so wise?). The older participants scored more highly than the younger ones. QED.
+
+Of course there's always someone who wants it to rain on the parade. Another American theorised more recently that older brains are slower, and thus more risk-averse and less impulsive. Clearly this is balderdash, but he'll learn, when he's older.",deciding how the responses should be scored.,ensuring there was a diverse range of participants.,deciding how wisdom can be measured.,defining the term โ€wisdomโ€.,D,0.1,0.25,0.10-0.25
+195044,grammar,C2,No offence intended _______ I think you haven't understood the problem correctly.,,,when,if,as,but,D,0.1,0.25,0.10-0.25
+195045,reading,A2,Choose the correct answer.,,"Family hair cuts
+Pay for two adult haircuts and get up to 2 children's haircuts free!
+
+Offer Monday to Friday 4-6pm only",Two adults and two children must pay full price for haircuts on Saturdays.,A single mother won't have to pay for her child's haircut on Monday at 5pm.,"If two parents get haircuts on Friday morning, their two children can get free haircuts.",,A,0.7,0.85,0.70-0.85
+195046,grammar,C1,…will focus on China's emerging youth culture as well ___ foreign arts and entertainment.,,,with,as,than,from,B,0.25,0.4,0.25-0.40
+195047,reading,A2,Which day will be driest?,,"Mountain Area forecast
+Mountains can be dangerous places. The weather can change from one hour to the next, and from one peak to the next. Always check the weather forecast before you go out.  
+
+Brecon Beacons National Park
+Tuesday 4 April
+There will be mist and fog in the valleys early on, but this will lift in the morning. It will be a dry day with some sunny spells, especially in the north, where it will feel warm. It will remain cloudy in the south and west. Cloud will get thicker in the afternoon, and there will be a chance of rain in the west in the late afternoon.
+
+Visibility
+Generally good, but poor in hill fog.  May turn poor in the west in the late afternoon.
+
+Hill fog
+Some hill fog above 300 metres at first. This will lift, but will remain at 600 metres in the morning, and around the peaks in the afternoon and evening.
+
+Wed 5 April
+Weather
+A much windier day, and it will feel cold high up, where temperatures will be low. A bright start, with some sunshine and showers, but showers will increase in the afternoon, and there may be some hail and thunder. Snow showers possible above 800m.
+
+Visibility
+Generally good, but moderate in showers.
+
+Hill fog
+None expected.
+
+Outlook
+Thu 6 April
+Very windy with gales possible in the north and north east. Cloudy with rain or drizzle and hill fog. Some bright spells later, but showers continuing through the afternoon.
+
+Fri 7 April
+Overcast at first with areas of hill fog, and also occasional light rain or drizzle. It will gradually become drier and warmer, but will remain cloudy. Light southeasterly breezes.
+
+Sat 8 April
+A bright day, with the best of the sunshine in the east. It will probably turn cloudier with a gentle southeasterly breeze, but should remain warm and dry.",4th April,5th April,6th April,,A,0.7,0.85,0.70-0.85
+195048,grammar,A2,That's ___ last gas station for twenty miles.,,,You do not need a word here.,an,the,,C,0.7,0.85,0.70-0.85
+195049,grammar,A1,You ____ very hungry!,,,are,is,am,,A,0.85,0.95,0.85-0.95
+195050,grammar,B2,I bet the shop ____ of ice cream by the time we get there.,,,will be sell out,will sold out,will have sold out,,C,0.4,0.55,0.40-0.55
+195051,reading,A2,Last year the friends had problems with...,,"Hi Ellie,
+I’m so pleased you can come surfing in August! Paul, Rose and Kevin are coming too, so there will be five of us.  We’ve decided to return to New Sands, because the surf board hire is so cheap there. 
+I’m starting to think about accommodation. We won’t camp again after last year! I hated staying in a tent in all that rain!
+Kevin wants to hire a caravan. There are some nice ones with 3 bedrooms, showers and cooking facilities. The problem is, none of the caravan parks take short bookings in the summer. The minimum stay is a week. It’s a shame because there are several nice parks near the beach.
+There’s a youth hostel in New Sands. It’s the cheapest option after camping, and there’s a big kitchen and dining room where we can cook. The problem is, accommodation is in dormitories and I don’t really want to sleep with strangers. 
+There are a few guest houses in New Sands. Some have triple rooms, so we’d only need to book two rooms. They’re not expensive, but we wouldn’t be able to cook there. We’d have to eat out at restaurants, or eat sandwiches for every meal!  We’ll have to book soon if we choose that option, because many guest houses are already full. The hotels in New Sands are far too expensive, even though I’d love to stay at the Sunrise Pavilion with its rooftop pool!
+The final option is to rent a cottage. Few cottages offer mid-week breaks in summer, but I found one. It has three bedrooms - a double, a single and a twin, so two of us would have to share a bed!  There’s a big kitchen diner with a microwave, washing machine and dishwasher. The living room has a TV and DVD player. There’s just one bathroom, but there’s a separate WC.  There’s a nice garden too. The problem is, it’s 5 miles from the beach, so we’d have to hire a car, because there aren’t any buses.
+Let me know which option you prefer.
+Cheers",the weather.,the transport.,their surf boards.,,A,0.7,0.85,0.70-0.85
+195052,reading,C1,What does the study seek to do?,,"Music increases verbal aptitude in Children
+
+The relationship between musical education and increased abilities in non-musical domains such as mathematics, linguistics and spatial organisation has been studied extensively. Now, a study by Jospeh Prio and Camelo Ortiz from Long Island University claims to clarify the role of music in mental aptitude.  Their test examined the hypothesis that children receiving keyboard tuition would show a markedly superior performance on measures of vocabulary and verbal sequencing than students who received no instruction.Children were selected from two schools in the same area with similar demographic characteristics. The children who received musical education (n=46) at one school received formal piano tuition for three years. Children attending the control school (n=57) received no formal musical training on any musical instrument. Both schools followed balanced literacy programmes.
+
+Results showed significantly better vocabulary and verbal sequencing scores in the musically trained group than the control group, from which the authors conclude that a variety of approaches, including music, can improve reading achievement in children.
+
+However, close examination of the results revealed some inconsistency within this premise. The authors observed that at the start of the study, the music-learning group had already received two years of piano tuition, but showed no superior linguistic skills over the control group at that time.  In explaining these findings, Prio and Ortiz propose: that the absence of music instruction during the summer recess preceding the start of the study may have reversed any temporary cognitive benefits; that the duration of music study required to improve such skills is longer than the initial two years, and that significant brain development may occur during the time-period in which the study took place. The experiment leads to authors to believe that decisions on when to teach are equally important as what to teach.",Investigate an issue which is already widely accepted,Prove a hypothesis which may revolutionise teaching,Challenge a popular idea,Improve the literacy skills in two neighbouring schools,B,0.25,0.4,0.25-0.40
+195053,reading,A1,Who is speaking at the October meeting?,,"Gardening Club
+The Gardening Club meets on the first Tuesday of each month at 7.00 in the Blue Room.
+Swap seeds and tips and meet green-fingered friends
+October’s guest lecturer: Jill Thorn will speak on ‘Creating a Wildlife Garden’",Jill Thorn,A member of the club,A gardening teacher from school,,A,0.85,0.95,0.85-0.95
+195054,reading,C1,What is the main purpose in the second paragraph?,,"Extract from a brochure
+
+Iford Manor Festival Season
+
+Iford Manor has been described as one of the most stunning concert venues in the West Country.  Throughout high summer, Iford Arts stages an internationally renowned festival in a breathtakingly beautiful pastoral setting. Operatic performances are staged in-the-round in the intimate surroundings of the Italianate Cloister, which could not be more perfect in terms of scale and style. While the classical backdrop could hardly be more fitting, the real delight for our audiences is that, as the sky turns purple overhead, the first stars appear and the first heady notes resound across the countryside, no-one is seated less than twenty feet from the performers. The opportunity for a relaxing pre-show picnic in our tranquil gardens overlooking the meandering River Frome will complete an already magical experience.
+
+Iford Arts, a registered charity promoting the appreciation of performing arts in the west of England, aims to benefit the local community by engaging young professional artists and stimulating young people's enjoyment of being involved in live performances.  We hope to support young musicians in their career development by encouraging them to develop repertoire and perform to a supportive audience and providing the exquisite environment in which to do so. Iford Arts does not receive any public subsidies, relying on vital private contributions. We offer various levels of private patronage and corporate sponsorship, each providing a range of privileges such as priority booking.",To describe the history of the performances,To encourage young musicians to perform at the Manor,To encourage people to donate to the charity,To inform people about how they can be involved in charity work,C,0.25,0.4,0.25-0.40
+195055,reading,A1,The Weather Office provides a forecast for ___ days.,,"Mountain Area forecast
+Mountains can be dangerous places. The weather can change from one hour to the next, and from one peak to the next. Always check the weather forecast before you go out.  
+
+Brecon Beacons National Park
+Tuesday 4 April
+There will be mist and fog in the valleys early on, but this will lift in the morning. It will be a dry day with some sunny spells, especially in the north, where it will feel warm. It will remain cloudy in the south and west. Cloud will get thicker in the afternoon, and there will be a chance of rain in the west in the late afternoon.
+
+Visibility
+Generally good, but poor in hill fog.  May turn poor in the west in the late afternoon.
+
+Hill fog
+Some hill fog above 300 metres at first. This will lift, but will remain at 600 metres in the morning, and around the peaks in the afternoon and evening.
+
+Wed 5 April
+Weather
+A much windier day, and it will feel cold high up, where temperatures will be low. A bright start, with some sunshine and showers, but showers will increase in the afternoon, and there may be some hail and thunder. Snow showers possible above 800m.
+
+Visibility
+Generally good, but moderate in showers.
+
+Hill fog
+None expected.
+
+Outlook
+Thu 6 April
+Very windy with gales possible in the north and north east. Cloudy with rain or drizzle and hill fog. Some bright spells later, but showers continuing through the afternoon.
+
+Fri 7 April
+Overcast at first with areas of hill fog, and also occasional light rain or drizzle. It will gradually become drier and warmer, but will remain cloudy. Light southeasterly breezes.
+
+Sat 8 April
+A bright day, with the best of the sunshine in the east. It will probably turn cloudier with a gentle southeasterly breeze, but should remain warm and dry.",2,4,5,,C,0.85,0.95,0.85-0.95
+195056,grammar,A1,Your keys ___ here!,,,You do not need a word.,is,are,,C,0.85,0.95,0.85-0.95
+195057,reading,A1,What should children bring to the club?,,"Messy Fingers Club!
+Mondays, Wednesdays and Fridays from 4.00-5.30pm
+Your kids can get messy with painting, printing and modelling.
+Suitable for children aged 6-11. Meet in the main hall.
+Just bring an old shirt that you don’t mind getting messy!",A paintbrush and colours,An old shirt,A school uniform,,B,0.85,0.95,0.85-0.95
+195058,grammar,A1,Which question is correct?,,,Is John here today?,John he is here today?,John is here today?,,A,0.85,0.95,0.85-0.95
+195059,grammar,C2,I had no difficulty _______ their house although they had said that people often did.,,,to find,finding,to finding,for finding,B,0.1,0.25,0.10-0.25
+195060,grammar,C1,Rolling Stone ___ first published in San Francisco in 1967.,,,were,has,is,was,D,0.25,0.4,0.25-0.40
+195061,grammar,B1,The car went as fast ___ a bullet.,,,than,as,like,,B,0.55,0.7,0.55-0.70
+195062,reading,A2,choose the correct answer.,,"After the show, please take your costumes to room 7.
+Please don't take them home",You don't have to take your costume home.,You mustn't go home with your costume.,You don't have to wear your costume after the show.,,B,0.7,0.85,0.70-0.85
+195063,reading,A1,Where will the Friday night rehearsals for children take place?,,"Lockwood Amateur Dramatic Society
+
+This winter we will be performing โ€Puss in Bootsโ€.
+If youโ€d like to be on the stage, please come to our auditions on Saturday 8th September. Children: 10-12 am; Adults 2-5pm in the main hall.
+No acting experience necessary!
+Rehearsals will be on Friday nights 7-9pm in the main hall (7-8pm for children) and Wednesdays 7-9pm in the Blue Room.
+Dress rehearsal: 3rd December
+Performances: 5-7th December",In the Blue Room,In the main hall,At the school theatre,,B,0.85,0.95,0.85-0.95
+195064,grammar,B2,"By November, we’ll ____ here for five years.",,,have been living,live,be living,,A,0.4,0.55,0.40-0.55
+195065,grammar,A2,My mum doesn't like ____. She thinks they are noisy.,,,dog,dogs,the dogs,,B,0.7,0.85,0.70-0.85
+195066,grammar,A1,In which sentence can you write is?,,,____ you a doctor?,This ____ my mother,____ your parents here?,,B,0.85,0.95,0.85-0.95
+195067,reading,B2,What does the article say about the music file-sharers?,,"Music file sharing
+The British music industry is to sue 28 internet users it says are illegally swapping music online. The British Phonographic Industry (BPI) says it is targeting ""major uploaders"" - those who make music available to share free with others. Music file-sharers have been blamed for a decline in world-wide CD sales. The BPI's actions follow that of its US counterpart which is already suing those it calls the worst offenders. It says more cases are expected to come. A further 459 alleged file-sharers across Europe now face legal action, the IFPI global music industry body said on Thursday, with France and Austria also targeted for the first time. US record companies have issued more than 5,700 lawsuits from alleged file-sharers, with many settling out of court. At the moment the BPI does not know the names of the 28 people it is going after, but is asking the courts to force internet service providers to hand over their personal information.
+There was an outcry when a 12-year-old girl from New York was served with a lawsuit by the US industry, which was eventually settled by her mother. The same could yet happen in the UK. ""We don't screen for political correctness. We go on the basis of IPaddresses. We do not know who it is, it is based on their internet activity,"" said IFPI chairman Jay Berman. IP addresses are used to identify a particular machine using the internet at any one time.
+
+BPI chairman Peter Jamieson said: ""We have been warning for months that unauthorised file-sharing is illegal. These are not people casually downloading the odd track. ""They are uploading music on a massive scale, effectively stealing the livelihoods of thousands of artists and the people who invest in them.""
+The 28 people being sued in the UK should find out in the coming few weeks who they are, said BPI general counsel Geoff Taylor. Once they have been served with the legal action they will be given the chance to settle out of court. If they do not the BPI will seek damages and an injunction to stop them using file-sharing services.
+
+The BPI believes a hardcore 15% of file-sharers are responsible for 75% of all illegal music downloading.",most are casual downloaders,there are 28 of them in Europe,they are stealing from musicians,,C,0.4,0.55,0.40-0.55
+195068,reading,C2,What did Watson set out to prove?,,"You are going to read four extracts which are all concerned in some way with the human mind. For each question, choose the answer which you think fits best according to the text.
+Where do emotions come from?
+
+For many centuries, the question of how our minds work was left to theologians and philosophers. But at the beginning of the twentieth century, a new science, experimental psychology emerged, in which the speculative theories of the past were confirmed or disproved by the scientific method. At the forefront of this research was J B Watson. His area of interest was the origin of human emotions. Do we learn them, or do we have them when we are born? In particular, Watson wanted to study fear, and was prepared to go to whatever lengths to study his theory.
+
+Watsonโ€s subject was a 9 month old infant, Albert. During the experiment, Watson presented the child with things which are often considered frightening โ€“ a rat, fire, a clown mask. At first, Albert was unafraid of these things. But then Watson tormented the child with loud, unexpected noises as he was playing with them. Sure enough, Albert learnt to associate these things with the unpleasant experience. Even when the noises were stopped, Albert withdrew his body and puckered his face when presented once more with the rat and mask.
+
+Such abusive and disturbing experiments would never be permitted nowadays. The film which Watson made of the experiment makes discomforting viewing, as the child is interminably and cold-heartedly tortured by the items which he has been taught to fear. Nonetheless, this was a landmark work with profound influence. Through it, Watson confirmed that humans learn fear by association, and as a result they can un-learn it, a discovery that still impact s the work of behavioural therapists today.",Humans can be conditioned to fear anything,Children are unafraid of potentially dangerous things,Humans are born with all their emotions,Children are more afraid of loud noises than rats and masks,A,0.1,0.25,0.10-0.25
+195069,reading,B1,The aim of the article is to…,,"Northacre Council Department of Education
+
+Sixteen - What now?
+You’re 16 and finally you can leave school!  By now, you’re probably sick of teachers, desks, tests and exams.  But don’t just run for the exit. You need to think carefully about what to do next.
+If you want a professional career, you will need to go to university and get a degree. To do that, you need to stay at high school for another two years.  But you needn’t stay at the same place. There are several options in the district of Northacre.
+St. Leopold’s School has the best pass rate of all the high schools in the district. It offers a wide range of subjects in the humanities and sciences.  St Leopold’s is, of course, a private school, so may be too expensive for you. But don’t worry, there are several other options if you want to follow the academic route.  Knowle Grammar School is a state school, so there are no fees, and it has excellent tuition and facilities. It is a boys’ school from the ages of 11-16, but from 16-18 it is co-educational. But it is selective, so you’ll have to pass an exam to get in.  If you’re interested in going into Business, check out Wyle River Academy.  This school specialises in subjects like Business Studies, Management and Economics.  If you prefer the arts, look at the courses on offer at Northacre College.  Here you can study woodwork, art, textiles and much more.
+Northacre College also offers a wide range of vocational qualifications.  You can do a 1-year certificate or a 2-year diploma in subjects like electrics, plumbing, roofing and hairdressing.  If you’d prefer to work outdoors, look at Milldown College, where there are courses in Farm Mechanics, Land Management, Animal Management and much more.
+A final option is to get an apprenticeship with a local or national company.  You will get on-the-job training, gain certificates or diplomas and start earning straight away.  But be warned - places are limited!  Find out more at the Jobs Fair on 26th May at Northacre College.",advise young people about how to get to university.,tell young people about the options available.,advise young people to stay in education.,,B,0.55,0.7,0.55-0.70
+195070,reading,A2,What should Robert tell Paul?,,"Hi Robert
+Ellie asked me to take some books to her house for her homework, but I have no idea where she lives. Do you know?
+Paul",what the homework is,which books he needs,Ellie's address,,C,0.7,0.85,0.70-0.85
+195071,grammar,C1,We feel Chinese music and arts ___ maturing rapidly...,,,are,is,be,have,A,0.25,0.4,0.25-0.40
+195072,grammar,A1,"Choose the correct word: ""I ___ a student.""",,,am,is,are,be,A,0.85,0.95,0.85-0.95
+195073,grammar,A2,"Select the correct verb form: ""She ___ to the park yesterday.""",,,go,goes,went,gone,C,0.7,0.85,0.70-0.85
+195074,grammar,B1,"Choose the correct passive form: ""The cake ___ by Mary.""",,,baked,is baked,was baked,has baked,C,0.55,0.7,0.55-0.70
+195075,grammar,B2,"Identify the correct conditional: ""If I ___ you, I would apologize.""",,,am,were,was,be,B,0.4,0.55,0.40-0.55
+195076,grammar,C1,"Choose the correct reported speech: ""He said, ""I have finished my work.""""",,,He said he has finished his work.,He said he had finished his work.,He said he would finish his work.,He said he would have finished his work.,B,0.25,0.4,0.25-0.40
+195077,grammar,C2,"Select the correct inversion: ""___ I known, I would have helped.""",,,Had,Should,Were,Would,A,0.1,0.25,0.10-0.25
+195084,listening,A1,"A man needs to buy a part for his car. He calls a company to order the part. Listen and complete the details in the order form.
+What is forename?",,,Allen,Allan,Alan,,B,0.85,0.95,0.85-0.95
+195085,listening,A1,Which part does the man need to buy for his car?,audio/6807b05ac6a05_A1 Listening Shopping.mp3,,Inside Mirror,Inside Light,Inside Tyre,,B,0.85,0.95,0.85-0.95
+195086,listening,A1,What is the make (brand) of the man’s car?,audio/6807b0b0a671f_A1 Listening Shopping.mp3,,Toyota,Nissan,Ford,,C,0.85,0.95,0.85-0.95
+195087,listening,A1,What is the model of the man’s car?,audio/6807b10219c2e_A1 Listening Shopping.mp3,,Spirit,Spark,Sport,,A,0.85,0.95,0.85-0.95
+195088,listening,A1,Which year is the man’s car?,audio/6807b1691d782_A1 Listening Shopping.mp3,,2005,2008,2009,,C,0.85,0.95,0.85-0.95
+195089,listening,A1,How much is the total cost including tax and postage?,audio/6807b285201af_A1 Listening Shopping.mp3,,£25.76,£30.50,£35.76,,C,0.85,0.95,0.85-0.95
+195090,listening,A1,What is the man’s postcode?,audio/6807b2dcdb902_A1 Listening Shopping.mp3,,NU8 9RF,NU9 8RF,NU8 8RF,,A,0.85,0.95,0.85-0.95
+195091,listening,A1,What is the man’s card security code?,audio/6807b32a2c15b_A1 Listening Shopping.mp3,,922,929,992,,C,0.85,0.95,0.85-0.95
+195092,listening,A1,Which date is the expiry date for the credit card?,audio/6807b36fa0253_A1 Listening Shopping.mp3,,Jun-19,Aug-20,Jan-19,,A,0.85,0.95,0.85-0.95
+195093,listening,A1,Which card number does the man use for payment?,audio/6807b3b10bac7_A1 Listening Shopping.mp3,,8463 9678 8274 0699,8463 9673 8247 0699,8463 9673 8274 0699,,C,0.85,0.95,0.85-0.95
+195094,listening,A1,What is the man’s postal address?,audio/6807b3eb10293_A1 Listening Shopping.mp3,,27,29,21,,A,0.85,0.95,0.85-0.95
+195095,listening,A2,What is the man’s first name?,audio/6807b4a9bb415_A2 Listening At the doctor.mp3,,Jeff,Geoff,George,,B,0.7,0.85,0.70-0.85
+195096,listening,A2,What is the man’s surname?,audio/6807b4f91ab8d_A2 Listening At the doctor.mp3,,Blacke,Black,Blake,,B,0.7,0.85,0.70-0.85
+195097,listening,A2,What is the address given by the man?,audio/6807b54eaf1ac_A2 Listening At the doctor.mp3,,"94 Hall Street, Nottingham","84 Hill Street, Nottingham","94 Hill Street, Nottingham",,C,0.7,0.85,0.70-0.85
+195098,listening,A2,In which city does the man live?,audio/6807b58c80c7f_A2 Listening At the doctor.mp3,,Nottingham,London,Birmingham,,A,0.7,0.85,0.70-0.85
+195099,listening,A2,When is the man’s date of birth?,audio/6807b5c34c978_A2 Listening At the doctor.mp3,,09-08-70,08-09-70,07-09-70,,B,0.7,0.85,0.70-0.85
+195100,listening,A2,What is the man’s home phone number?,audio/6807b5fc8f76d_A2 Listening At the doctor.mp3,,466738,466378,467638,,A,0.7,0.85,0.70-0.85
+195101,listening,A2,What is the man’s mobile phone number?,audio/6807b637e4597_A2 Listening At the doctor.mp3,,07781 677686,07781 677688,07782 677688,,B,0.7,0.85,0.70-0.85
+195102,listening,A2,How tall is the man?,audio/6807b674402fd_A2 Listening At the doctor.mp3,,1.75 metres,1.8 metres,1.9 metres,,C,0.7,0.85,0.70-0.85
+195103,listening,A2,What is the man’s weight?,audio/6807b6a85f4fb_A2 Listening At the doctor.mp3,,87 kg,90 kg,89 kg,,C,0.7,0.85,0.70-0.85
+195104,listening,A2,What is the man’s National Insurance Number?,audio/6807b6e21a147_A2 Listening At the doctor.mp3,,94782841222,94782841227,94872841227,,B,0.7,0.85,0.70-0.85
+195105,listening,B1,You will hear two friends talking about buying a new camera. Where does the woman recommend buying one?,audio/6807b7847ad62_B1_pet_part2_1.mp3,,From a website,From a mall,From a local shop,,C,0.55,0.7,0.55-0.70
+195106,listening,B1,You will hear two friends talking about a film they have just seen. They agree that the film would be better if...,audio/6807b7de49b0b_B1_pet_part2_2.mp3,,it had fewer special effects.,it was shorter.,the costumes were better.,,B,0.55,0.7,0.55-0.70
+195107,listening,B1,You will hear a man talking about a job he has just been offered. Why does he feel happy about it?,audio/6807b82d9ff69_B1_pet_part2_3.mp3,,He has always wanted a job like this.,He will not have to travel far.,He will be able to learn new skills.,,C,0.55,0.7,0.55-0.70
+195108,listening,B1,"You will hear two people talking about an arrangement they have made with a friend. The woman thinks that if their friend is late, they should ...",audio/6807b8833e6a3_B1_pet_part2_4.mp3,,wait for her.,go without her.,go somewhere nearer.,,B,0.55,0.7,0.55-0.70
+195109,listening,B1,You will hear two people talking about local curry restaurant. They both agree that ...,audio/6807b8c077c53_B1_pet_part2_5.mp3,,the food is good quality.,the service was good.,the price was reasonable.,,A,0.55,0.7,0.55-0.70
+195110,listening,B1,You will hear two people talking about climbing. The woman wants the man to ...,,,give her some climbing advice.,help her choose some climbing shoes.,work out with her.,,B,0.55,0.7,0.55-0.70
+195111,listening,B1,You will hear two people talking about climbing. The woman wants the man to ...,audio/6807b9093a55b_B1_pet_part2_6.mp3,,give her some climbing advice.,help her choose some climbing shoes.,work out with her.,,B,0.55,0.7,0.55-0.70
+195112,listening,B1,Where is the woman calling?,audio/6807ba0476eb9_Listening part 3.mp3,,an office,a garage,a doctor’s surgery,a factory,C,0.55,0.7,0.55-0.70
+195113,listening,B1,What information does that man ask for?,audio/6807ba5d42154_Listening part 3.mp3,,the woman’s name,the registration number of the bike,the make of the bike,the woman’s phone number,C,0.55,0.7,0.55-0.70
+195114,listening,B1,What is the man going to do?,audio/6807baab3696d_Listening part 3.mp3,,telephone the suppliers,call the woman back,order a new part,pick up the motorbike,A,0.55,0.7,0.55-0.70
+195115,listening,B1,Where does the woman work?,audio/6807bb25416c6_Listening part 4Talks.mp3,,in a shop,in a doctor’s surgery,in a train station,in a factory,B,0.55,0.7,0.55-0.70
+195116,listening,B1,What should someone do if they make a mistake on the records?,audio/6807bbb690d9e_Listening part 4Talks.mp3,,correct the mistake using pencil,use correction fluid,draw one line through the mistake,use a coloured pen to highlight the mistake,C,0.55,0.7,0.55-0.70
+195117,listening,B1,What does the woman tell her colleagues to do with the records?,audio/6807bc09956ad_Listening part 4Talks.mp3,,file them away,give them to the administration manager,put them in a box,give them to the patient,C,0.55,0.7,0.55-0.70
+195118,listening,B2,"You hear someone talking about an art exhibition.
+What is being exhibited?",audio/6807bd3803a65_4-FCE_listening1_4.mp3,,Marine and Landscape paintings,Historical paintings of a town,Cartoons about people’s lifestyles,,C,0.4,0.55,0.40-0.55
+195119,listening,B2,"You hear someone talking on the radio about lie detection.
+How is it possible to detect when people are lying?",audio/6807bcfbd31f4_3-FCE_listening1_3.mp3,,They signal the lie with their voice,They make small movements,They act differently from usual,,C,0.4,0.55,0.40-0.55
+195120,listening,B2,"You hear someone talking about performing in a singing contest.
+How does she feel about the contest?",audio/6807bdaac7c8c_7-FCE_listening1_7.mp3,,grateful,nervous,proud,,A,0.4,0.55,0.40-0.55
+195121,listening,B2,"You hear a woman talking about her job.
+What does she dislike about her job?",audio/6807bdee46818_2-FCE_listening1_2.mp3,,Her work is seasonal,She dislikes her boss,She doesn’t get enough time off,,A,0.4,0.55,0.40-0.55
+195122,listening,B2,"You hear someone talking about blogs on the radio.
+What are the advantages of blogs?",audio/6807be3ad1706_5-FCE_listening1_5.mp3,,They are more interesting than traditional media,They provide a more balanced point of view,They give a more honest account of stories,,C,0.4,0.55,0.40-0.55
+195123,listening,B2,"You hear a teacher talking to a student.
+Why is the teacher talking to the student?",audio/6807be7534d56_8.FCE_listening1_8.mp3,,To give a warning,To correct a mistake,To make a suggestion,,A,0.4,0.55,0.40-0.55
+195124,listening,B2,"You hear someone talking about travelling abroad.
+Which option did he choose?",audio/6807bebc13904_6-FCE_listening1_6.mp3,,The most convenient option,The quickest option,The cheapest option,,C,0.4,0.55,0.40-0.55
+195125,listening,B2,"You hear the weather forecast on the radio.
+What will the weather be like in the south?",audio/6807bef1de098_1-FCE_listening1_1.mp3,,Windy with showers,Cool and wet,Cloudy with sunny spells,,C,0.4,0.55,0.40-0.55
+195126,listening,C1,"You hear two people talking about World Cup Football.
+What do the two people agree about?",audio/6807bf685a0e9_1-2-cae_listening1pt1.mp3,,They believe the standard of the football is good.,They think it is a good opportunity to socialise.,They agree that it gives a sense of global unity.,,B,0.25,0.4,0.25-0.40
+195127,listening,C1,"What, in the man’s opinion, is the best thing about this year’s tournament?",audio/6807bfacbb662_1-2-cae_listening1pt1.mp3,,It takes place in a similar time zone.,His team are expected to do well.,The tournament coincides with his time off from work.,,A,0.25,0.4,0.25-0.40
+195128,listening,C1,"You hear two people talking about why one of them became a tour guide.
+Why did the woman become a tour guide?",audio/6807bff4b4223_3-4-cae_listening1pt2.mp3,,She wanted the opportunity to travel to Turkey.,She needed experience for her chosen career.,Someone from a travel company asked her to work for him.,,B,0.25,0.4,0.25-0.40
+195129,listening,C1,What is the main reason she gives for quitting the job?,audio/6807c0c0ddfd3_3-4-cae_listening1pt2.mp3,,She didn’t like the busy schedule.,She didn’t have the chance to be creative.,She didn’t like the attitudes of the tourists.,,B,0.25,0.4,0.25-0.40
+195130,listening,C1,"Listen to conversation between a news reporter and a representative from the coffee chain, Roasters.
+Why won’t Roasters open in Crowcombe?",audio/6807c14882d66_5-6-Cae1_1.mp3,,The company was swayed by public opinion.,The company cannot get planning approval.,The company feared it would not get enough custom.,,A,0.25,0.4,0.25-0.40
+195131,listening,C1,What is unique about Crowcombe?,audio/6807c1ddb2d14_5-6-Cae1_1.mp3,,It has more coffee shops than any other town of its size.,It is the only town in the south west offering alternative therapies.,It does not have any national chain stores.,,C,0.25,0.4,0.25-0.40
+195132,listening,C1,"Listen to two people discussing a book they have read.
+What positive aspect about the book do the speakers agree on?",audio/6807c22cb7341_7-8-Cae1_2.mp3,,The writer’s courage in the choice of theme.,The effectiveness of the first person narration.,Their emotional response to the book.,,A,0.25,0.4,0.25-0.40
+195133,listening,C1,Why did the woman feel disappointed by the book?,audio/6807c271341cd_7-8-Cae1_2.mp3,,The relationships portrayed in the book were implausible.,The book didn’t reflect the severe nature of the subject matter.,The child was portrayed as untypically intelligent.,,B,0.25,0.4,0.25-0.40
+195134,listening,C1,"Your hear part of an interview between a radio presenter and Larry, the conductor of a choir.
+Why has the number of singers in Larry’s choir increased, in Larry’s opinion?",audio/6807c2ba2fd04_9-10-Cae1_3.mp3,,Because of Larry’s reputation as a good director,Because the choir appeared on television,Because of the popularity of televised talent shows,,C,0.25,0.4,0.25-0.40
+195135,listening,C1,Larry advises music groups to…,audio/6807c2f6382a6_9-10-Cae1_3.mp3,,Perform in less formal environments,Think about what music modern audiences want to listen to,Put on free concerts to attract audiences,,A,0.25,0.4,0.25-0.40
+195136,listening,C2,The speaker makes the point that…,audio/6807c39074a08_1-2-Cpe_1_1.mp3,,It is immoral that people prefer novels about bad marriages to good ones.,It takes skill to write a memorable novel about miserable marriages.,Fairy tales give readers false hopes about the reality of married life,,B,0.1,0.25,0.10-0.25
+195137,listening,C2,‘Madame Bovary’ is used to exemplify…,audio/6807c3d7f12ed_1-2-Cpe_1_1.mp3,,how inescapable marriages make better stories.,the lengths women went to in order to avoid being socially outcast.,how divorce made it easier for women to escape unhappy marriages.,,A,0.1,0.25,0.10-0.25
+195138,listening,C2,When the woman was a bridesmaid at her brother’s wedding…,audio/6807c412cec4b_3-4-Cpe_1_2.mp3,,she was sceptical about marriage in general.,she was embarrassed about taking the role because of her wheelchair.,she was delighted that her childhood dreams had come true.,,A,0.1,0.25,0.10-0.25
+195139,listening,C2,The woman’s experience at her friends’ wedding…,audio/6807c454060a7_3-4-Cpe_1_2.mp3,,made her feel grateful to her friends for changing her outlook.,"made her feel equally conspicuous, but for different reasons.",made her realise that disabled people could be treated better at functions.,,B,0.1,0.25,0.10-0.25
+195140,listening,C2,Recent demographic research in America has shown…,audio/6807c4930c4fe_5-6-Cpe_1_3.mp3,,a repeat of a former trend.,surprising changes in the divorce rate.,an increase in the cost of getting a divorce.,,A,0.1,0.25,0.10-0.25
+195141,listening,C2,One positive impact identified by the study is that the recession…,audio/6807c4ea0997d_5-6-Cpe_1_3.mp3,,strengthened some marital relationships.,reduced the incidence of violence within families.,improved the relationship between children and parents.,,A,0.1,0.25,0.10-0.25
+195142,listening,C2,"According to the speaker, marital pair bonds probably began when…",audio/6807c53b21857_7-8-Cpe_1_4.mp3,,males forced females to become more compliant.,the difference in size between males and females decreased.,females objected to living in polygamous relationships.,,B,0.1,0.25,0.10-0.25
+195143,listening,C2,"By ancient Greek times, the institute of marriage was characterized by its role as…",audio/6807c581064c2_7-8-Cpe_1_4.mp3,,a pact to secure possessions and social standing.,a public proclamation of romantic love.,a relationship in which both the male and female benefitted.,,A,0.1,0.25,0.10-0.25
+195145,listening,A1,Test sound?,audio/6832b9140aabf_A1 Listening Shopping.mp3,,A,B,C,D,A,0.85,0.95,0.85-0.95
