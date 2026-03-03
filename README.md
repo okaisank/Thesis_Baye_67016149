@@ -18,7 +18,7 @@ python .\bot_bayes_cefr_unified_csv_only.py
 python .\bot_bayes_cefr_unified_csv_only.py --out_dir out_sim --export_review_lists
 
 
-## Mode 1
+## Mode 2
 
 1) Run with your uploaded CSV (has band_low/band_high):
 
