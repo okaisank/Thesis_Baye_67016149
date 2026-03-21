@@ -1,0 +1,19 @@
+"""
+
+
+cd D:\School_of_Engineer\Term_3---2-2568\Samina2-2026\github_code_baye\bot_bayes_cefr_unified_csv_only.py
+py -3.12 -m venv .venv
+.\.venv\Scripts\Activate.ps1
+python -m pip install --upgrade pip
+pip install numpy pandas matplotlib scipy mpmath
+
+
+
+"""
+
+
+numpy
+pandas
+matplotlib
+scipy
+mpmath
