@@ -6,20 +6,36 @@
 
 1) Run with your uploaded CSV (has band_low/band_high):
       
-   python .\bot_bayes_cefr_unified_csv_only.py 
-      `
-      --out_dir out_csv `
-      
-      --bank_csv .\question_bank_mo_with_bands_range_utf8sig.csv `
-      
-      --export_review_lists
-
+python .\bot_bayes_cefr_mode_1.py `
+  --out_dir .\out_mode1_csv `
+  --bank_csv .\question_bank_180_balanced_with_true_p_mid_stratified.csv `
+  --T_max 200 `
+  --step 10 `
+  --train_frac 0.70 `
+  --seed_bank 42 `
+  --seed_resp 123 `
+  --prob_model logit_sigmoid `
+  --mod_mag 0.15 `
+  --alpha0 1.0 `
+  --beta0 1.0 `
+  --export_review_lists
   
 ## Simulation 
 
 2) Run synthetic 180-item bank (no CSV):
 
-   python .\bot_bayes_cefr_unified_csv_only.py --out_dir out_sim --export_review_lists
+python .\bot_bayes_cefr_mode_1.py `
+  --out_dir .\out_mode1_sim `
+  --T_max 200 `
+  --step 10 `
+  --train_frac 0.70 `
+  --seed_bank 42 `
+  --seed_resp 123 `
+  --prob_model logit_sigmoid `
+  --mod_mag 0.15 `
+  --alpha0 1.0 `
+  --beta0 1.0 `
+  --export_review_lists
 
 
 ## Mode 2
@@ -28,18 +44,24 @@
 
 1) Run with your uploaded CSV (has band_low/band_high):
 
-   python bot_bayes_mode2_run_csv_no_bands.py `
-   
-     --bank_csv question_bank_mo_with_bands_range_utf8sig.csv `
-   
-     --id_col question_id --truth_col cefr_level `
-   
-     --p_from_range band_low band_high `
-   
-     --out_dir out_mode2_T200 --T_max 200 --seed 42
+python .\bot_bayes_mode_2.py `
+  --bank_csv .\question_bank_180_balanced_with_true_p_mid_stratified.csv `
+  --id_col question_id `
+  --truth_col cefr_level `
+  --p_col true_p_mid `
+  --out_dir .\out_mode2_csv `
+  --T_max 200 `
+  --step 10 `
+  --seed 42
 
 ## Simulation 
 
 2) Run synthetic 180-item bank (no CSV):
 
-   python bot_bayes_mode2_run_csv_no_bands.py --out_dir out_mode2_T200_sim --T_max 200
+python .\bot_bayes_mode_2.py `
+  --out_dir .\out_mode2_sim `
+  --T_max 200 `
+  --step 10 `
+  --seed 42
+
+  
